@@ -92,5 +92,5 @@ public class lifegame_test {
         };
         Assert.assertArrayEquals(expected, cell.getGrid());
     }
-	
+
 }
